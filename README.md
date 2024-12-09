@@ -29,10 +29,6 @@
 
 ###
 
-<img align="right" height="150" src="https://www3.nd.edu/~ljordan/linux/images/sysadminsparadise.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -49,8 +45,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mcas2/mcas2/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mcas2/count.svg?"  />
+</div>
 
 ###
